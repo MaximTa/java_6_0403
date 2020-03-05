@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Plate plate = new Plate(60);
+        Plate plate = new Plate(60);//Задание 7
         Cat[] catsArray = new Cat[5];
         catsArray[0] = new Cat("Caton", 22,false);
         catsArray[1] = new Cat("Catyan", 25, false);
